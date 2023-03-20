@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=wlecome%20Minyoung's&fontSize=70)
 
 <!--
 **Mingmin99/Mingmin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
