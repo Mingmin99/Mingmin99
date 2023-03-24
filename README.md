@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Welcome%20%to-nl-Ming's%20git&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Welcome%20%to-nl-Ming's%20git🤗&fontSize=50)
+
+
+
+// 배지 코드
+<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+
+
 
 <!--
 **Mingmin99/Mingmin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
