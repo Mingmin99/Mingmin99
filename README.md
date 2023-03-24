@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Welcome%20%to-nl-Ming's%20git🤗&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCCCC&height=300&section=header&text=Welcome%20%to-nl-Ming's%20git🤗&fontSize=50)
 
   
 </div>
