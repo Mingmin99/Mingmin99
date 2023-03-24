@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Welcome%20%to%20Ming's%20git&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFCCCC&height=300&section=header&text=Welcome%20%to-nl-Ming's%20git&fontSize=50)
 
 <!--
 **Mingmin99/Mingmin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
