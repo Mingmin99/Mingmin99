@@ -7,13 +7,12 @@
   <!--Body-->
   
   ## 👀 About Me
+  #### 👩‍💻: My name is Min Young Choi 
   #### :mortar_board: Bachelor of Law and Economics, Dongguk University (DGU) 
-  #### :fire: "Challenge to become a developer!".<br/>
+  
   <br/>
   <br/>
   
-  
- 🧱 Tech Stack
 
  <!--Java-->
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
