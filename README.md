@@ -19,11 +19,12 @@
  <!--Java-->
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
- ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingmin99&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingmin99)](https://github.com/anuraghazra/github-readme-stats)
-  
+   
+   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5 html5&logoColor=black">
+   
+   
+
+
   
 </div>
 <!--
